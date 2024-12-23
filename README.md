@@ -1,4 +1,4 @@
-# Markov Decision Process (MDP) - Assignment 3.2
+# Markov Decision Process (MDP)
 
 This repository contains the solution for the "Markov Decision Process" assignment from the Machine, Data and Learning course.
 
